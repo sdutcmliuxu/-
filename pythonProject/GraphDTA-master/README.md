@@ -77,3 +77,9 @@ python training_validation.py 0 0 0
 
 This returns the model achieving the best MSE for validation data throughout the training and performance results of the model on testing data.
 For example, it returns two files model_GATNet_davis.model and result_GATNet_davis.csv when running GATNet on Davis data.
+
+## 上传记录
+
+最近上传完成时间：**2026-10-04 00:20:06（北京时间，Asia/Shanghai，UTC+08:00）**。
+
+仓库地址：https://github.com/sdutcmliuxu/-
