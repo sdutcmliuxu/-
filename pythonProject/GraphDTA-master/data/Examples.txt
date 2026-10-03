@@ -1,0 +1,5 @@
+C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)O[C@@H]2[C@H]([C@H](CO[C@H]2OC(=O)[C@]34CCC(C[C@H]3C5=CC[C@H]6[C@]([C@@]5(C[C@H]4O)C)(CC[C@@H]7[C@@]6(C[C@@H]([C@@H](C7(CO)CO)O[C@H]8[C@@H]([C@H]([C@@H]([C@H](O8)CO)O)O)O)O)C)C)(C)C)O)O)O)O)O[C@H]9[C@@H]([C@H]([C@@H](CO9)O)O[C@H]1[C@@H]([C@](CO1)(CO)O)O)O
+C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)OC[C@@H]2[C@H]([C@@H]([C@H]([C@@H](O2)OC3=CC(=C4C(=O)C[C@H](OC4=C3)C5=CC(=C(C=C5)OC)O)O)O)O)O)O)O)O
+C1C[N+]2=C(C=C3C=CC4=C(C3=C2)OCO4)C5=CC6=C(C=C51)OCO6
+C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)OC[C@@H]2[C@H]([C@@H]([C@H]([C@@H](O2)OC3=CC(=C4C(=C3)OC(=CC4=O)C5=CC=C(C=C5)OC)O)O)O)O)O)O)O
+C1C(C(OC2=CC(=CC(=C21)O)O)C3=CC(=C(C=C3)O)O)OC4(C(C(C5=C(C=C(C=C5O4)O)O)O)O)C6=CC(=C(C=C6)O)O

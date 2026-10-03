@@ -1,0 +1,6 @@
+===== Transgelin-2 微调模型亲和力预测日志 =====
+蛋白序列：MALWMRLLPLLALLALWGPDPAAAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAEDLQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN
+微调模型路径：D:\Transgelin-2\pythonProject\GraphDTA-master\model_save\tagln2_finetune_7samples_best.pth
+运行时间：2026-04-28 14:39:37
+
+[2026-04-28 14:39:37] ✅ 微调模型加载成功 | 运行设备：cuda:0 | 蛋白序列：Transgelin-2（你的指定版本）

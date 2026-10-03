@@ -1,0 +1,12 @@
+# Local IDE settings and Python caches
+.idea/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.env
+.env.*
+
+# Temporary prediction data; benchmark data exclusions remain in the project .gitignore
+pythonProject/GraphDTA-master/data/processed/predict_temp_*.pt
